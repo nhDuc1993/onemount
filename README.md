@@ -39,5 +39,10 @@ The project is an data analysis exercise using Olist ecommerce dataset.
 ## Github repo
 https://github.com/nhDuc1993/onemount/
 
+## Tutorial
+- data_processing.ipynb for detailed data exploration
+- olist.pbix for an elaborate dashboard summarizing all business KPIs
+- olist.pptx for a consolidated important points regarding business acumen
+
 ## Acknowledgements
 - Brazilian E-Commerce Public Dataset by Olist
